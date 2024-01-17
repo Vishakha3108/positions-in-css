@@ -1,0 +1,35 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.navbar {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    overflow: auto;
+}
+.navbar ul {
+    list-style-type: none;
+    text-align: center;
+}
+ .navbar ul li {
+    font-size: 25px;
+}
+ .main {
+    background-color: #df084f;
+    margin-top: 20px; 
+}
+.navbar ul li {
+    border-bottom: 1px solid black;
+} 
+
+.navbar ul li ul li {
+   background-color: #bad4d4;
+  display: none;
+}
+.navbar ul li:hover ul li {
+    display: block;
+}
+.navbar ul li ul li {
+    padding: 12px; 
+}

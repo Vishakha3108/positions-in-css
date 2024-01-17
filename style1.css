@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+/* .left {
+    float: left; 
+}*/
+h1 {
+    color: white;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+p {
+    color: white;
+    margin-left: 50px;
+    width: 800px;
+    font-size: 20px;
+}
+button {
+    background-color: #7a0edf;
+    color: white;
+    padding: 15px 40px;
+    margin-left: 50px;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+button:active {
+    color: #7a0edf;
+}
+.right {
+    float: right;
+}
+img {
+    margin-top: 10px;
+    width: 550px;
+    margin-right: 50px;
+}

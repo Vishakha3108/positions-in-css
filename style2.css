@@ -1,0 +1,38 @@
+body {
+    border: 3px solid black;
+}
+img {
+    width: 130px;
+    margin-left: 120px;
+    margin-top: 10px;
+    float: left;
+}
+div {
+    border: 2px solid;
+    width: 390px;
+    height: 780px;
+    margin-top: 5px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+p {
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.list1 {
+    list-style: none;
+    float: left;
+    width: 190px;
+    color: #4c0292;
+    font-size: 22px;
+    margin-top: 0px;
+}
+li {
+    margin: 8px;
+}
+.list2 {
+    list-style: none;
+     margin-top: 35px; 
+     font-size: 17px;
+}
